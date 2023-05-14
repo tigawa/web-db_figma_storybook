@@ -5,7 +5,7 @@ export const Page = () => {
     <article>
       test
       <Button backgroundColor={"emerald.50"} size={"lg"}>
-        ボタン
+        button
       </Button>
     </article>
   )
